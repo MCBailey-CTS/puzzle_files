@@ -1,0 +1,12 @@
+050.magnets
+8
+a c c d f f g g 3 2
+a b b d e e D E 3 3
+h h s t u u D E 0 2
+f f s t v B B C 3 2
+i p q q v A A C 2 3
+i p r r w x y y 3 2
+j k l m w x z z 3 4
+j k l m n n o o 3 2
+4 2 3 1 3 2 2 3 + .
+3 3 2 2 3 2 1 4 . -

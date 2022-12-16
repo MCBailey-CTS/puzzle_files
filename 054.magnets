@@ -1,0 +1,12 @@
+054.magnets
+8
+a a b b q r r t 4 4
+c n n p q s s t 4 4
+c o o p u u v v 2 2
+d w x x C D D F 3 3
+d w y z C E E F 2 3
+e e y z A A B B 3 2
+f g g i j k k m 2 3
+f h h i j l l m 4 3
+2 4 2 4 3 4 1 4 + .
+3 3 3 3 4 1 4 3 . -

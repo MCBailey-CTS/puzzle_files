@@ -1,0 +1,11 @@
+032.magnets
+7
+a a b b c c # 1 1
+d d f s s t u 2 2
+e e f q r t u 3 3
+g o o q r v v 3 2
+g n n p p w x 2 3
+h h j k l w x 3 3
+i i j k l m m 3 3
+3 2 0 3 3 3 3 + .
+3 2 1 3 2 3 3 . -

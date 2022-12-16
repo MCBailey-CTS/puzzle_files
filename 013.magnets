@@ -1,0 +1,10 @@
+013.magnets
+6
+a b c d e f 3 2
+a b c d e f 2 3
+g g h h i i 2 2
+j j k k l l 2 2
+m m n n o o 0 0
+p p q q r r 3 3
+3 2 2 1 2 2 + .
+2 3 2 1 2 2 . -

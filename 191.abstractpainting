@@ -1,0 +1,24 @@
+191.abstractpainting
+10
+0 0 0 0 0 0 0 0 0 0 ?
+0 0 0 0 0 0 0 0 0 0 6
+0 0 0 0 0 0 0 0 0 0 ?
+0 0 0 0 0 0 0 0 0 0 ?
+0 0 0 0 0 0 0 0 0 0 9
+0 0 0 0 0 0 0 0 0 0 ?
+0 0 0 0 0 0 0 0 0 0 ?
+0 0 0 0 0 0 0 0 0 0 ?
+0 0 0 0 0 0 0 0 0 0 4
+0 0 0 0 0 0 0 0 0 0 ?
+6 4 ? 5 ? 5 ? ? 4 ?
+
+a i i i i p s s s s
+a i i j j p r r r r
+b b k k m p p p r r
+b b k l m m p p q q
+c b l l m m m m q q
+c b l l n n n o o q
+d e l l n n o o o o
+d e e e f g g g h h
+d d e f f f g g h h
+d d e f f f g g h h

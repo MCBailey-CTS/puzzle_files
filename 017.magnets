@@ -1,0 +1,10 @@
+017.magnets
+6
+a a b b f g 2 1
+c d e e f g 2 2
+c d m n n q 1 1
+h h m o p q 2 3
+i l l o p e 2 1
+i j j k k e 1 2
+2 2 0 2 2 2 + .
+2 1 2 1 2 2 . -

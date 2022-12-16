@@ -1,0 +1,12 @@
+059.magnets
+8
+a a b b c c d d 2 ?
+e e g h i j k l ? ?
+f f g h i j k l 3 3
+m n o C C D E E 2 ?
+m n o A B D F F ? 2
+p x x A B G G H 3 4
+p u u v v w w H 4 3
+q q r r s s t t 4 ?
+2 ? 3 2 3 ? ? 2 + .
+? 3 4 ? 3 ? ? 1 . -

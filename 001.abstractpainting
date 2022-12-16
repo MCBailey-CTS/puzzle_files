@@ -1,0 +1,9 @@
+001.abstractpainting
+4
++-a +-b +-b +-b 3
++-a +-a +-b +-b 2
++-c +-c +-c +-c 4
++-d +-d +-c +-c 2
+1   2   4   4   $
+
+

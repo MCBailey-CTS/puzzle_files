@@ -1,0 +1,11 @@
+035.magnets
+7
+a A A B B C C 2 ?
+a D E F G H H ? ?
+b D E F G N O ? ?
+b # J K L N O ? 3
+c c J K L M M 2 2
+d d f g h i j 3 2
+e e f g h i j ? ?
+? 0 3 2 2 0 4 + .
+? 1 ? ? ? ? ? . -
